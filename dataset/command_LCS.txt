@@ -1,0 +1,13 @@
+./find_lcs ../dataset/q11.txt > output11.txt
+./find_lcs ../dataset/q12.txt > output12.txt
+./find_lcs ../dataset/q13.txt > output13.txt
+./find_lcs ../dataset/q21.txt > output21.txt
+./find_lcs ../dataset/q22.txt > output22.txt
+./find_lcs ../dataset/q23.txt > output23.txt
+./find_lcs ../dataset/q31.txt > output31.txt
+./find_lcs ../dataset/q32.txt > output32.txt
+./find_lcs ../dataset/q33.txt > output33.txt
+
+./find_lcs ../dataset/s1.txt > output_same1.txt
+./find_lcs ../dataset/s2.txt > output_same2.txt
+./find_lcs ../dataset/s3.txt > output_same3.txt

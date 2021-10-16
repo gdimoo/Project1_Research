@@ -1,0 +1,12 @@
+mummer -mum -b -c d1.fasta d1q1.fasta > mummerd11.mums
+mummer -mum -b -c d1.fasta d1q2.fasta > mummerd12.mums
+mummer -mum -b -c d1.fasta d1q3.fasta > mummerd13.mums
+mummer -mum -b -c d2.fasta d2q1.fasta > mummerd21.mums
+mummer -mum -b -c d2.fasta d2q2.fasta > mummerd22.mums
+mummer -mum -b -c d2.fasta d2q3.fasta > mummerd23.mums
+mummer -mum -b -c d3.fasta d3q1.fasta > mummerd31.mums
+mummer -mum -b -c d3.fasta d3q2.fasta > mummerd32.mums
+mummer -mum -b -c d3.fasta d3q3.fasta > mummerd33.mums
+mummer -mum -b -c s1.fasta s1q1.fasta > mummers1.mums
+mummer -mum -b -c s2.fasta s2q1.fasta > mummers2.mums
+mummer -mum -b -c s3.fasta s3q1.fasta > mummers3.mums
